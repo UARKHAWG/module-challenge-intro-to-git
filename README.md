@@ -7,7 +7,7 @@ Complete the set up tasks and then get started on the research questions found i
 ## Task 1: MVP
 You will need to follow the [BloomTech Git Workflow](https://bloomtech.notion.site/bloomtech/BloomTech-Git-Flow-Step-by-step-269f68ae3bf64eb689a8328715a179f9) to add a file to this project follow the steps below:
 
-- [ ] Create your own version of this repo using the fork button at the top right of the repository
+- [x] Create your own version of this repo using the fork button at the top right of the repository
 - [ ] Clone this repo by clicking the green Code button, then copy pasting the SSH URL: `git clone git@github.com:YOUR-GITHUB-USERNAME/Git-for-Web-Development-Project.git`
 - [ ] Create a branch: `git checkout -b 'FIRSTNAME-LASTNAME'`
 - [ ] Answer the questions in the `mac.md` or `pc.md` file, depending on which operating system you are using.
